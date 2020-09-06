@@ -1,1 +1,2 @@
-# my-homemade-shop-api
+# MyHomemadeShop
+
